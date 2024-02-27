@@ -1,0 +1,3 @@
+iFogSim is indeed a simulation toolkit specifically designed for modeling and simulating fog computing environments. Much like CloudSim, which is used for simulating cloud computing environments, iFogSim allows researchers and developers to simulate various aspects of fog computing systems, including the deployment of fog nodes, allocation of resources, scheduling of tasks, and evaluation of performance metrics.
+
+iFogSim provides a platform for experimenting with different fog computing architectures, algorithms, and policies in a simulated environment before deploying them in real-world settings. This helps in understanding the behavior of fog computing systems under different conditions and optimizing their performance.
